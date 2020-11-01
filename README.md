@@ -7,4 +7,5 @@ Books I've read (or mostly listen to) . I learned to read before this, but I did
 ### October
 
 - [Leaders Eat Last](https://www.goodreads.com/book/show/16144853-leaders-eat-last) by Simon Sinek
+- [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) by Andy Weir
 

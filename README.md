@@ -24,6 +24,7 @@ _Entries without months from memory_
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/book/show/10256723-ghost-in-the-wires) by Kevin D. Mitnick, William L. Simon, Steve Wozniak
 - [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) by Edward Snowden
 - [The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom](https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis) by Jonathan Haidt
+- [Spark: The Revolutionary New Science of Exercise and the Brain](https://www.goodreads.com/book/show/721609.Spark) by John J. Ratey, Eric Hagerman
 
 ### August
 - [Finansowy Ninja](https://www.goodreads.com/book/show/29151508-finansowy-ninja) by Michał Szafrański

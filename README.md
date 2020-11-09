@@ -17,6 +17,8 @@ _from memory_
 - [The Long War](https://www.goodreads.com/book/show/17167572-the-long-war) by Terry Pratchett, Stephen Baxter 🌓 _abandoned_
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook)by Gene Kim, Jez Humble, Patrick Debois, John Willis
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/22535480-elon-musk) by Ashlee Vance
+- [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow) by Mihaly Csikszentmihalyi
+- [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack) by Charles T. Munger, Peter E. Kaufman
 
 ## 2020
 _Entries without months from memory_

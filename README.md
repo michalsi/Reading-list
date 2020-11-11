@@ -1,7 +1,7 @@
 # Reading-list
 
 Tracking books I've read (or mostly have listen to).
-_Dates befor October 2020 have been adapted after the fact._
+_Dates before October 2020 have been adapted after the fact._
 
 ## Currently on the shelf
 - [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman

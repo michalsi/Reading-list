@@ -1,14 +1,23 @@
 # Reading-list
 
-Books I've read (or mostly listen to) . I learned to read before this, but I didn't keep track then.
-## 2019 (maybe 2018)
-_from memory_
+Tracking books I've read (or mostly have listen to).
+_Dates befor October 2020 have been adapted after the fact._
 
+## Currently on the shelf
+- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
+- [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
+- [Opowiadania bizarne](https://www.goodreads.com/book/show/39215270-opowiadania-bizarne) by Olga Tokarczuk
+- [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide) by John Z. Sonmez
+
+## 2019 (maybe 2018)
 - [How to stop time](https://www.goodreads.com/book/show/45152372-how-to-stop-time) by Matt Haig 
+- [Ecology of the Planted Aquarium: A Practical Manual and Scientific Treatise for the Home Aquaris](https://www.goodreads.com/book/show/91597.Ecology_of_the_Planted_Aquarium) by Diana Walstad
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari
 - [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by Yuval Noah Harari
 - [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century) by Yuval Noah Harari
 - ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman) by Richard P. Feynman
+- [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
+- [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.goodreads.com/book/show/34427200-the-four) by Scott Galloway
 - [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) by Orson Scott Card
 - [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) by Orson Scott Card
 - [Xenocide](https://www.goodreads.com/book/show/8648.Xenocide) by Orson Scott Card 🌓 _abandoned_
@@ -21,7 +30,6 @@ _from memory_
 - [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack) by Charles T. Munger, Peter E. Kaufman
 
 ## 2020
-_Entries without months from memory_
 - [The Unicorn Project](https://www.goodreads.com/en/book/show/44333183) by Gene Kim
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/book/show/10256723-ghost-in-the-wires) by Kevin D. Mitnick, William L. Simon, Steve Wozniak
 - [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record) by Edward Snowden
@@ -43,5 +51,5 @@ _Entries without months from memory_
 
 ### November
 - [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](https://www.goodreads.com/book/show/44428950-that-will-never-work) by Marc Randolph 
-- [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide) by John Z. Sonmez
+
 

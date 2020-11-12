@@ -1,6 +1,7 @@
-# Reading-list
+# 📚 Reading-list
 
-Tracking books I've read (or mostly have listen to).
+📖 Tracking books I've read (or mostly have listen to) 🎧
+
 _Dates before October 2020 have been adapted after the fact._
 
 ## Currently on the shelf
@@ -20,10 +21,11 @@ _Dates before October 2020 have been adapted after the fact._
 - [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.goodreads.com/book/show/34427200-the-four) by Scott Galloway
 - [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) by Orson Scott Card
 - [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) by Orson Scott Card
-- [Xenocide](https://www.goodreads.com/book/show/8648.Xenocide) by Orson Scott Card 🌓 _abandoned_
+- [Xenocide](https://www.goodreads.com/book/show/8648.Xenocide) by Orson Scott Card 🚧  _abandoned_
 - [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) by Ernest Cline
 - [The Long Earth](https://www.goodreads.com/book/show/13147230-the-long-earth) by Terry Pratchett, Stephen Baxter
-- [The Long War](https://www.goodreads.com/book/show/17167572-the-long-war) by Terry Pratchett, Stephen Baxter 🌓 _abandoned_
+- [The Long War](https://www.goodreads.com/book/show/17167572-the-long-war) by Terry Pratchett, Stephen Baxter
+- [The Long Mars](https://www.goodreads.com/book/show/18586487-the-long-mars) by Terry Pratchett, Stephen Baxter 🚧  _abandoned_
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook)by Gene Kim, Jez Humble, Patrick Debois, John Willis
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/22535480-elon-musk) by Ashlee Vance
 - [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow) by Mihaly Csikszentmihalyi

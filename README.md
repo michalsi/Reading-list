@@ -23,6 +23,7 @@ _Dates before October 2020 have been adapted after the fact._
 - [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) by Orson Scott Card
 - [Xenocide](https://www.goodreads.com/book/show/8648.Xenocide) by Orson Scott Card 🚧  _abandoned_
 - [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) by Ernest Cline
+- [The Richest Man in Babylon)](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) by George S. Clason
 - [The Long Earth](https://www.goodreads.com/book/show/13147230-the-long-earth) by Terry Pratchett, Stephen Baxter
 - [The Long War](https://www.goodreads.com/book/show/17167572-the-long-war) by Terry Pratchett, Stephen Baxter
 - [The Long Mars](https://www.goodreads.com/book/show/18586487-the-long-mars) by Terry Pratchett, Stephen Baxter 🚧  _abandoned_

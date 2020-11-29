@@ -12,7 +12,8 @@ _Dates before October 2020 have been adapted after the fact._
 
 ## 2019 (maybe 2018)
 - [How to stop time](https://www.goodreads.com/book/show/45152372-how-to-stop-time) by Matt Haig 
-- [Ecology of the Planted Aquarium: A Practical Manual and Scientific Treatise for the Home Aquaris](https://www.goodreads.com/book/show/91597.Ecology_of_the_Planted_Aquarium) by Diana Walstad
+- [Ecology of the Planted Aquarium: A Practical Manual and Scientific Treatise for the Home Aquaris](https://www.goodreads.com/book/show/91597.Ecology_of_the_Planted_Aquarium) by Diana Walstad by Suzanne Collins
+- [The Hunger Games](https://www.goodreads.com/book/show/2767052-the-hunger-games)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari
 - [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by Yuval Noah Harari
 - [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century) by Yuval Noah Harari

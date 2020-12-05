@@ -8,7 +8,7 @@ _Dates before October 2020 have been adapted after the fact._
 - [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
 - [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
 - [Opowiadania bizarne](https://www.goodreads.com/book/show/39215270-opowiadania-bizarne) by Olga Tokarczuk
-- [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide) by John Z. Sonmez
+
 
 ## 2019 (maybe 2018)
 - [How to stop time](https://www.goodreads.com/book/show/45152372-how-to-stop-time) by Matt Haig 
@@ -56,4 +56,6 @@ _Dates before October 2020 have been adapted after the fact._
 ### November
 - [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](https://www.goodreads.com/book/show/44428950-that-will-never-work) by Marc Randolph 
 
+### December
+- [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide) by John Z. Sonmez
 

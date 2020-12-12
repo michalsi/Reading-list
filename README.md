@@ -5,14 +5,16 @@
 _Dates before October 2020 have been adapted after the fact._
 
 ## Currently on the shelf
-- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
+- [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/book/show/50701156-the-pragmatic-programmer)by Andy Hunt, David Thomas
 - [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
-- [Opowiadania bizarne](https://www.goodreads.com/book/show/39215270-opowiadania-bizarne) by Olga Tokarczuk
+- _[Opowiadania bizarne](https://www.goodreads.com/book/show/39215270-opowiadania-bizarne) by Olga Tokarczuk_
+- _[Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman_
 
 
 ## 2019 (maybe 2018)
 - [How to stop time](https://www.goodreads.com/book/show/45152372-how-to-stop-time) by Matt Haig 
 - [Ecology of the Planted Aquarium: A Practical Manual and Scientific Treatise for the Home Aquaris](https://www.goodreads.com/book/show/91597.Ecology_of_the_Planted_Aquarium) by Diana Walstad
+- [Książka, którą napisałem, żeby mieć na odwyk](https://www.goodreads.com/book/show/27832716-ksi-ka-kt-r-napisa-em-eby-mie-na-odwyk) by Marek Raczkowski, Magdalena Żakowska
 - [The Hunger Games](https://www.goodreads.com/book/show/2767052-the-hunger-games) by Suzanne Collins
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari
 - [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by Yuval Noah Harari

@@ -5,10 +5,10 @@
 _Dates before October 2020 have been adapted after the fact._
 
 ## Currently on the shelf
-- [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/book/show/50701156-the-pragmatic-programmer)by Andy Hunt, David Thomas
 - [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
 - _[Opowiadania bizarne](https://www.goodreads.com/book/show/39215270-opowiadania-bizarne) by Olga Tokarczuk_
 - _[Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman_
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by Aditya Y. Bhargava
 
 
 ## 2019 (maybe 2018)
@@ -60,4 +60,5 @@ _Dates before October 2020 have been adapted after the fact._
 
 ### December
 - [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide) by John Z. Sonmez
+- [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/book/show/50701156-the-pragmatic-programmer)by Andy Hunt, David Thomas
 

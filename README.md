@@ -20,6 +20,8 @@ _Dates before October 2020 have been adapted after the fact._
 - [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) by Yuval Noah Harari
 - [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century) by Yuval Noah Harari
 - ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman) by Richard P. Feynman
+- [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink 
+- [When: The Scientific Secrets of Perfect Timing](https://www.goodreads.com/book/show/35412097-when) by Daniel H. Pink 
 - [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
 - [The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](https://www.goodreads.com/book/show/34427200-the-four) by Scott Galloway
 - [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) by Orson Scott Card

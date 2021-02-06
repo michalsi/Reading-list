@@ -5,7 +5,6 @@
 _Dates before October 2020 have been adapted after the fact._
 
 ## Currently on the shelf
-- [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
 - _[Opowiadania bizarne](https://www.goodreads.com/book/show/39215270-opowiadania-bizarne) by Olga Tokarczuk_
 - _[Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman_
 - _[You Don't Know JS Yet: Get Started](https://www.goodreads.com/book/show/50718908-you-don-t-know-js-yet) by Kyle Simpson_
@@ -66,4 +65,7 @@ _Dates before October 2020 have been adapted after the fact._
 - [The Pragmatic Programmer: Your Journey to Mastery](https://www.goodreads.com/book/show/50701156-the-pragmatic-programmer)by Andy Hunt, David Thomas
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by Aditya Y. Bhargava
 
+## 2021
+### February 
+- [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
 

@@ -68,4 +68,5 @@ _Dates before October 2020 have been adapted after the fact._
 ## 2021
 ### February 
 - [Finansowa Forteca](https://www.goodreads.com/book/show/55289532-finansowa-forteca) by Marcin Iwuć
+- [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Z. Sonmez
 
